@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Xavier Iglesias
+ * @author Xavier Iglesias y Victor Gonzalez
  */
 public class Lienzo extends JPanel{
     int d = 12;
