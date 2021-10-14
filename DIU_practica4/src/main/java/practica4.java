@@ -11,7 +11,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author Xavier Iglesias
+ * @author Xavier Iglesias y Victor Gonzalez
  */
 public class practica4 extends javax.swing.JFrame {
     /**
