@@ -198,7 +198,7 @@ public class practica4 extends javax.swing.JFrame {
 
 
 public void cambioColorLienzo(int i){
-    System.out.println(i);
+    System.out.println("\n");
         if(i == 0){
             Color r = Color.WHITE;
             lienzo1.setBackground(r);
@@ -223,7 +223,7 @@ public void cambioColorLienzo(int i){
     }
 
 public void cambioColorPincel(int i){
-    System.out.println(i);
+    System.out.println("\n");
         if(i == 0){
             Color r = Color.BLACK;
             lienzo1.setForeground(r);
