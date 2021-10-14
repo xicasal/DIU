@@ -14,10 +14,10 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Xavier Iglesias y Victor Gonzalez
+ * @author Xavier Iglesias
  */
 public class Lienzo extends JPanel{
-    int d = 12;
+    int d = 10;
     private ArrayList<Point2D> coord = new ArrayList<>();
     
     public void setPoint(int p1,int p2){
