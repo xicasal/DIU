@@ -39,10 +39,10 @@
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="lienzo1" min="-2" max="-2" attributes="0"/>
+                  <Component id="lienzo1" max="32767" attributes="0"/>
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="169" max="-2" attributes="0"/>
-                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel1" max="32767" attributes="0"/>
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
@@ -69,19 +69,19 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace max="-2" attributes="0"/>
-              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <Component id="jLabel1" max="32767" attributes="0"/>
               <EmptySpace pref="44" max="32767" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="textoColorLienzo" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="comboBoxLienzo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="textoColorLienzo" alignment="3" max="32767" attributes="0"/>
+                  <Component id="comboBoxLienzo" alignment="3" max="32767" attributes="0"/>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="textoColorPincel" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="comboBoxPincel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="textoColorPincel" alignment="3" max="32767" attributes="0"/>
+                  <Component id="comboBoxPincel" alignment="3" max="32767" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
-              <Component id="lienzo1" min="-2" max="-2" attributes="0"/>
+              <Component id="lienzo1" max="32767" attributes="0"/>
               <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
           </Group>
       </Group>
