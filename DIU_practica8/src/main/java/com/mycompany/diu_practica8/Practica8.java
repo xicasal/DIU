@@ -183,11 +183,11 @@ public class Practica8 extends javax.swing.JFrame {
 
     private void informacionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_informacionActionPerformed
          JOptionPane.showMessageDialog(rootPane, "Ayuda:\n"
-                + "1. Haga clic en File/Open para seleccionar la imagen\n"
+                + "1. Haga clic en File/Abrir para seleccionar la imagen\n"
                 + "2. Haciendo clic en Edit/Umbralizar le aparecerá un diálogo solicitando el factor para el umbral:\n"
                 + "   - Debe ser Entero.\n"
                 + "   - Puede umbralizarse cuantas veces se quiera.\n"
-                + "3. Haga click en File/Save una vez haya finalizado para conservar sus cambios.\n"
+                + "3. Por cada umbralizado aparecerá una nueva ventana con el nuevo factor de umbral.\n"
                 + "4. Para cerrar la aplicación, haga click en File/Exit");
     }//GEN-LAST:event_informacionActionPerformed
 
