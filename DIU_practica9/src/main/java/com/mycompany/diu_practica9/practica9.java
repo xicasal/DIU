@@ -19,7 +19,7 @@ import javax.swing.ListSelectionModel;
 
 /**
  *
- * @author Xavier Iglesias y Víctor González
+ * @author Xavier Iglesias
  */
 public class practica9 extends javax.swing.JFrame {
     int n = 1;
@@ -228,7 +228,7 @@ public class practica9 extends javax.swing.JFrame {
             }
         });
 
-        deseleccionar.setText("Deseleccionar");
+        deseleccionar.setText("Quitar selección");
         deseleccionar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 deseleccionarActionPerformed(evt);
@@ -257,14 +257,14 @@ public class practica9 extends javax.swing.JFrame {
                                 .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                             .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(140, 140, 140)
-                        .addComponent(mostrarCamposTabla))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(187, 187, 187)
+                        .addGap(176, 176, 176)
                         .addComponent(deseleccionar))
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(215, 215, 215)
-                        .addComponent(botonSalir)))
+                        .addGap(207, 207, 207)
+                        .addComponent(botonSalir))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(136, 136, 136)
+                        .addComponent(mostrarCamposTabla)))
                 .addContainerGap(37, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
