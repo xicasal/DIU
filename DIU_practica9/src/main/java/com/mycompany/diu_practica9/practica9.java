@@ -19,7 +19,7 @@ import javax.swing.ListSelectionModel;
 
 /**
  *
- * @author Xavier Iglesias
+ * @author Xavier Iglesias y Víctor González
  */
 public class practica9 extends javax.swing.JFrame {
     int n = 1;
